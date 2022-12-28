@@ -1,3 +1,6 @@
+## Desktop:
+![example-desktop](exercise/example-desktop.jpg)
+
 # Benny's burger
 Let's use Bootstrap to create a restaurant page!
 
@@ -38,8 +41,7 @@ Check out the layout images below.
 -   You have already created three navigation items inside the `nav` element. by clicking on one nav item, the page should scroll down to the respective section, __e.g. by clicking "Contact" in the navigation bar, the page should scroll down to the "Book a table" section__.
 
 
-## Desktop:
-![example-desktop](exercise/example-desktop.jpg)
+
 
 ## Tablet
 
